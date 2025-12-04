@@ -199,7 +199,3 @@ GitHub: https://github.com/AnuvabNayak
 LinkedIn: https://www.linkedin.com/in/anuvab-nayak-4baba5134/
 
 ---
-
-## 📄 License
-
-MIT License
